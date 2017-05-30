@@ -1,0 +1,16 @@
+@import "utilities/global";
+
+
+
+body {
+  background: blue;
+  color: white;
+  font-size: 2em;
+}
+
+
+
+@import "layouts/global";
+@import "components/global";
+@import "pages/global";
+@import "vendor/global";
