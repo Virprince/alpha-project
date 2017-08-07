@@ -4,7 +4,7 @@
 - Optimisation des images
 - Partie Vendor
 
-**Reminder**
+**Reminder**  
 // http://127.0.0.1/new-project/dist/ pour livereload  
 // npm install  
 // npm install --save-dev  
