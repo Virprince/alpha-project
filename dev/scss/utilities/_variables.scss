@@ -4,6 +4,9 @@
 
 $color-light:         #ffffff;
 $color-dark:          #000000;
+$color-primary:       #fe0000;
+// $color-primary:       rgba(254,0,0,0.2);
+$color-primary-alt:      darken($color-primary,12%);
 
 // COLOR FONTS
 $color-font-base:     $color-dark;
